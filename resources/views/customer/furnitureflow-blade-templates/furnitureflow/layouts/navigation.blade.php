@@ -1,0 +1,1 @@
+<a href="{{ route('customer.orders') }}" class="text-sm text-gray-700 hover:text-gray-900">My Orders</a>
